@@ -1,0 +1,18 @@
+{
+  "super_admin": {
+    "email": "raoimran8456@gmail.com",
+    "phone": "03013647087",
+    "id": "raoimran8456",
+    "role": "Super Admin - System Owner",
+    "note": "All team IDs and actions need approval from this admin. Name and number are hidden from public website."
+  },
+  "chairman": {
+    "name": "Rana Ghulam Nabi",
+    "phone": "03003004050",
+    "email": "hrjdo.org.pk@gmail.com",
+    "role": "Chairman HRJDO - All complaints forwarded here"
+  },
+  "approval_required": true,
+  "pending_approvals": [],
+  "approved_staff": []
+}
